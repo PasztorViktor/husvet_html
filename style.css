@@ -1,3 +1,18 @@
 #content1{
-    
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    text-align: left;
+}
+
+#picture1, #picture2{
+    margin: 5px;
+}
+
+#menu{
+    color: blueviolet;
+}
+
+#footer{
+    text-align: center;
+    color: lightblue;
 }
